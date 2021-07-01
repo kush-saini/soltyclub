@@ -454,6 +454,8 @@ nav {
 .app_outer li {
     margin-right: 20px;
     list-style: none;
+    margin-top: -10%;
+    margin-bottom: -12%;
 }
 .ap_two {
     background-position: 50% 0 !important;
