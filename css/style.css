@@ -1029,13 +1029,13 @@ nav ul li.btn.hide i:before {
      .mobile_download {
         position: fixed!important;
         bottom: 0!important;
-        height: 42px!important;
+        height: 49px!important;
         display: block!important;
         width: 100%!important;
         max-width: 100%!important;
         /* background-color: #f4a9a8!important; */
         background: rgb(12, 20, 39);
-        padding: 2px 0!important;
+        padding: 4px 0!important;
         text-align: center!important;
         z-index: 9999!important;
     }
@@ -1116,12 +1116,13 @@ nav ul li.logo {
     }.mobile_download {
         position: fixed!important;
         bottom: 0!important;
-        height: 42px!important;
+        height: 49px!important;
         display: block!important;
         width: 100%!important;
         max-width: 100%!important;
+        /* background-color: #f4a9a8!important; */
         background: rgb(12, 20, 39);
-        padding: 2px 0!important;
+        padding: 4px 0!important;
         text-align: center!important;
         z-index: 9999!important;
     }
@@ -1181,12 +1182,13 @@ nav ul li a {
     }.mobile_download {
         position: fixed!important;
         bottom: 0!important;
-        height: 42px!important;
+        height: 49px!important;
         display: block!important;
         width: 100%!important;
         max-width: 100%!important;
+        /* background-color: #f4a9a8!important; */
         background: rgb(12, 20, 39);
-        padding: 2px 0!important;
+        padding: 4px 0!important;
         text-align: center!important;
         z-index: 9999!important;
     }
