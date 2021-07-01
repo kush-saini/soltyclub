@@ -406,7 +406,7 @@ nav {
     color: #fff;
 }
 .pltf_outer li {
-    width: calc(100% / 5);
+    width: calc(100% / 4);
     list-style: none;
 }
 .platforms .circle_outer {
@@ -559,6 +559,9 @@ nav {
 .app_outer {
     flex-wrap: wrap;
     justify-content: start !important;
+}
+.mobile{
+    margin-top: -4%;
 }
 .snip1226 li {
     padding: 0px !important;
@@ -1011,7 +1014,7 @@ nav ul li.btn.hide i:before {
     }
     .banner-bg-image {
         width: 100%;
-        margin-top: 132px;
+        margin-top: 143px;
         height: auto;
     }
     .carousel {
@@ -1199,7 +1202,7 @@ nav ul li a {
         display: none;
     }.banner-bg-image {
         width: 100%;
-        margin-top: 132px;
+        margin-top: 143px;
         height: auto;
     }
     .carousel {
